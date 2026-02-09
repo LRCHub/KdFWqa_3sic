@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "WOKE UP REMIXX",
+  "base_artist": "XG",
+  "createdAt": "2026-02-09T14:00:28.490563Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS]",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/01_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_XG.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS] (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/02_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_(FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL_XG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS]",
+      "artist": "XG feat. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, TAK, Dok2",
+      "has_synced": false,
+      "path": "select/03_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_XG_feat._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK,_Dok2.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS] (feat. Jay Park, OZworld, AKLO & Paloalto)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/04_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_(feat._Jay_Park,_OZworld,_AKLO_&_Paloalto)_XG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS] (feat. Jay Park, OZworld, AKLO",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/05_WOKE_UP_REMIXX_[PROD_BY_JAKOPS]_(feat._Jay_Park,_OZworld,_AKLO_XG.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX",
+      "artist": "XG, Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2",
+      "has_synced": false,
+      "path": "select/06_WOKE_UP_REMIXX_XG,_Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_Tak,_Dok2.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (avec Jay Park, OZworld, AKLO et Paloalto)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/07_WOKE_UP_REMIXX_(avec_Jay_Park,_OZworld,_AKLO_et_Paloalto)_XG.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "woke up remixx (feat. jay park, ozworld, aklo, paloalto, verbal, awich, tak, dok2)",
+      "artist": "xg",
+      "has_synced": false,
+      "path": "select/08_woke_up_remixx_(feat._jay_park,_ozworld,_aklo,_paloalto,_verbal,_awich,_tak,_dok_xg.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG, Jakops, Jay Park, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2",
+      "has_synced": false,
+      "path": "select/09_WOKE_UP_REMIXX_(FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_Tak,_Dok_XG,_Jakops,_Jay_Park,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_&.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX",
+      "artist": "XG, Jakops, Jay Park, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2",
+      "has_synced": false,
+      "path": "select/10_WOKE_UP_REMIXX_XG,_Jakops,_Jay_Park,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_&.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG, Jakops, Jay Park, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK",
+      "has_synced": false,
+      "path": "select/11_WOKE_UP_REMIXX_(FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_Tak,_Dok_XG,_Jakops,_Jay_Park,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX",
+      "artist": "XG, Jakops, Jay Park, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK",
+      "has_synced": false,
+      "path": "select/12_WOKE_UP_REMIXX_XG,_Jakops,_Jay_Park,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG, Jakops, Park, Jay, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2",
+      "has_synced": false,
+      "path": "select/13_WOKE_UP_REMIXX_(FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_Tak,_Dok_XG,_Jakops,_Park,_Jay,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX",
+      "artist": "XG, Jakops, Park, Jay, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2",
+      "has_synced": false,
+      "path": "select/14_WOKE_UP_REMIXX_XG,_Jakops,_Park,_Jay,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (FEAT. ジェイ・パーク, OZworld, AKLO, Paloalto, VERBAL, Awich, TAK",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/15_WOKE_UP_REMIXX_(FEAT._ジェイ・パーク,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_XG.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX",
+      "artist": "XG feat. Jay Park, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2",
+      "has_synced": true,
+      "path": "select/16_WOKE_UP_REMIXX_XG_feat._Jay_Park,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_&_Do.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (feat. Jay Park, OZworld, AKLO & Paloalto)",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/17_WOKE_UP_REMIXX_(feat._Jay_Park,_OZworld,_AKLO_&_Paloalto)_XG.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX",
+      "artist": "XG feat. Jakops, Jay Park, OZworld a.k.a R’kuma, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2",
+      "has_synced": true,
+      "path": "select/18_WOKE_UP_REMIXX_XG_feat._Jakops,_Jay_Park,_OZworld_a.k.a_R’kuma,_AKLO,_Paloalto,_VERBAL,_Awich,_.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (FEAT. ジェイ・パーク, OZworld, AKLO, Paloalto, VERBAL, Awich, TAK & Dok2)",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/19_WOKE_UP_REMIXX_(FEAT._ジェイ・パーク,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_TAK_&_Dok_XG.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "WOKE UP REMIXX (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG/JAKOPS/Jay Park/OZworld/AKLO/Paloalto/VERBAL/Awich/Tak/Dok2",
+      "has_synced": true,
+      "path": "select/20_WOKE_UP_REMIXX_(FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_Awich,_Tak,_Dok_XG_JAKOPS_Jay_Park_OZworld_AKLO_Paloalto_VERBAL_Awich_Tak_Dok2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WOKE UP REMIXX [PROD BY JAKOPS](FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_WOKE_UP_REMIXX_[PROD_BY_JAKOPS](FEAT._Jay_Park,_OZworld,_AKLO,_Paloalto,_VERBAL,_XG.txt"
+    }
+  ]
+}
